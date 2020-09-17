@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pbox.api.sistemas.Domain.Core/1.0.0": {
+        "dependencies": {
+          "pbox.api.sistemas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "pbox.api.sistemas.Domain.Core.dll": {}
+        }
+      },
+      "pbox.api.sistemas.Domain/1.0.0": {
+        "runtime": {
+          "pbox.api.sistemas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pbox.api.sistemas.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pbox.api.sistemas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

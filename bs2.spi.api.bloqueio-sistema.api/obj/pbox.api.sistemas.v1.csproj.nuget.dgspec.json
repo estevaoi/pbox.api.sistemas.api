@@ -1,0 +1,418 @@
+{
+  "format": 1,
+  "restore": {
+    "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.api\\pbox.api.sistemas.v1.csproj": {}
+  },
+  "projects": {
+    "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.api\\pbox.api.sistemas.v1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.api\\pbox.api.sistemas.v1.csproj",
+        "projectName": "pbox.api.sistemas.v1",
+        "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.api\\pbox.api.sistemas.v1.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Infrastructure\\bs2.spi.api.bloqueio-sistema.Infrastructure.csproj": {
+                "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Infrastructure\\bs2.spi.api.bloqueio-sistema.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Application\\bs2.spi.api.bloqueio-sistema.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Application\\bs2.spi.api.bloqueio-sistema.Application.csproj",
+        "projectName": "bs2.spi.api.bloqueio-sistema.Application",
+        "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Application\\bs2.spi.api.bloqueio-sistema.Application.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Core\\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj": {
+                "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Core\\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Core\\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Core\\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj",
+        "projectName": "bs2.spi.api.bloqueio-sistema.Domain.Core",
+        "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Core\\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain\\bs2.spi.api.bloqueio-sistema.Domain.csproj": {
+                "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain\\bs2.spi.api.bloqueio-sistema.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Services\\bs2.spi.api.bloqueio-sistema.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Services\\bs2.spi.api.bloqueio-sistema.Domain.Services.csproj",
+        "projectName": "bs2.spi.api.bloqueio-sistema.Domain.Services",
+        "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Services\\bs2.spi.api.bloqueio-sistema.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Core\\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj": {
+                "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Core\\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain\\bs2.spi.api.bloqueio-sistema.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain\\bs2.spi.api.bloqueio-sistema.Domain.csproj",
+        "projectName": "bs2.spi.api.bloqueio-sistema.Domain",
+        "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain\\bs2.spi.api.bloqueio-sistema.Domain.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Infrastructure\\bs2.spi.api.bloqueio-sistema.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Infrastructure\\bs2.spi.api.bloqueio-sistema.Infrastructure.csproj",
+        "projectName": "bs2.spi.api.bloqueio-sistema.Infrastructure",
+        "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Infrastructure\\bs2.spi.api.bloqueio-sistema.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Application\\bs2.spi.api.bloqueio-sistema.Application.csproj": {
+                "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Application\\bs2.spi.api.bloqueio-sistema.Application.csproj"
+              },
+              "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Core\\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj": {
+                "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Core\\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj"
+              },
+              "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Services\\bs2.spi.api.bloqueio-sistema.Domain.Services.csproj": {
+                "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain.Services\\bs2.spi.api.bloqueio-sistema.Domain.Services.csproj"
+              },
+              "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain\\bs2.spi.api.bloqueio-sistema.Domain.csproj": {
+                "projectPath": "R:\\bs2\\bs2.spi.api.bloqueio-sistema.v1\\bs2.spi.api.bloqueio-sistema.Domain\\bs2.spi.api.bloqueio-sistema.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

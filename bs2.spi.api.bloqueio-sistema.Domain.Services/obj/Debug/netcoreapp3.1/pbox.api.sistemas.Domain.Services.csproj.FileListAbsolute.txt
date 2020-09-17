@@ -1,0 +1,14 @@
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Services.deps.json
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Services.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Services.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Core.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Core.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Services.csprojAssemblyReference.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Services.AssemblyInfoInputs.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Services.AssemblyInfo.cs
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Services.csproj.CoreCompileInputs.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Services.csproj.CopyComplete
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Services.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Services\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Services.pdb

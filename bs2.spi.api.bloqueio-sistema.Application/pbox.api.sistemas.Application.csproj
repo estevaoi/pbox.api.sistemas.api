@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>bs2.spi.api.bloqueio_sistema.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bs2.spi.api.bloqueio-sistema.Domain.Core\pbox.api.sistemas.Domain.Core.csproj" />
+  </ItemGroup>
+
+</Project>

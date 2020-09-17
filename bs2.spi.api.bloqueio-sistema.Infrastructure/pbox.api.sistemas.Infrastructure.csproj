@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>bs2.spi.api.bloqueio_sistema.Infrastructure</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.2.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bs2.spi.api.bloqueio-sistema.Application\pbox.api.sistemas.Application.csproj" />
+    <ProjectReference Include="..\bs2.spi.api.bloqueio-sistema.Domain.Core\pbox.api.sistemas.Domain.Core.csproj" />
+    <ProjectReference Include="..\bs2.spi.api.bloqueio-sistema.Domain.Services\pbox.api.sistemas.Domain.Services.csproj" />
+    <ProjectReference Include="..\bs2.spi.api.bloqueio-sistema.Domain\pbox.api.sistemas.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

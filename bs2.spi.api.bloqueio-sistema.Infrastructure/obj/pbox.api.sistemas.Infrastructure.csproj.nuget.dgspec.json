@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Infrastructure\\pbox.api.sistemas.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Application\\pbox.api.sistemas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Application\\pbox.api.sistemas.Application.csproj",
+        "projectName": "pbox.api.sistemas.Application",
+        "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Application\\pbox.api.sistemas.Application.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Core\\pbox.api.sistemas.Domain.Core.csproj": {
+                "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Core\\pbox.api.sistemas.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Core\\pbox.api.sistemas.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Core\\pbox.api.sistemas.Domain.Core.csproj",
+        "projectName": "pbox.api.sistemas.Domain.Core",
+        "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Core\\pbox.api.sistemas.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain\\pbox.api.sistemas.Domain.csproj": {
+                "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain\\pbox.api.sistemas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Services\\pbox.api.sistemas.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Services\\pbox.api.sistemas.Domain.Services.csproj",
+        "projectName": "pbox.api.sistemas.Domain.Services",
+        "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Services\\pbox.api.sistemas.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Core\\pbox.api.sistemas.Domain.Core.csproj": {
+                "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Core\\pbox.api.sistemas.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain\\pbox.api.sistemas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain\\pbox.api.sistemas.Domain.csproj",
+        "projectName": "pbox.api.sistemas.Domain",
+        "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain\\pbox.api.sistemas.Domain.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Infrastructure\\pbox.api.sistemas.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Infrastructure\\pbox.api.sistemas.Infrastructure.csproj",
+        "projectName": "pbox.api.sistemas.Infrastructure",
+        "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Infrastructure\\pbox.api.sistemas.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\estev\\.nuget\\packages\\",
+        "outputPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\estev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Application\\pbox.api.sistemas.Application.csproj": {
+                "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Application\\pbox.api.sistemas.Application.csproj"
+              },
+              "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Core\\pbox.api.sistemas.Domain.Core.csproj": {
+                "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Core\\pbox.api.sistemas.Domain.Core.csproj"
+              },
+              "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Services\\pbox.api.sistemas.Domain.Services.csproj": {
+                "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain.Services\\pbox.api.sistemas.Domain.Services.csproj"
+              },
+              "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain\\pbox.api.sistemas.Domain.csproj": {
+                "projectPath": "R:\\pbox.api.sistemas.api\\bs2.spi.api.bloqueio-sistema.Domain\\pbox.api.sistemas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

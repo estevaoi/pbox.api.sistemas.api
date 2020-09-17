@@ -1,0 +1,14 @@
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Application.deps.json
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Application.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Application.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Application.csprojAssemblyReference.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Application.AssemblyInfoInputs.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Application.AssemblyInfo.cs
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Application.csproj.CoreCompileInputs.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Application.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Application.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Application.csproj.CopyComplete

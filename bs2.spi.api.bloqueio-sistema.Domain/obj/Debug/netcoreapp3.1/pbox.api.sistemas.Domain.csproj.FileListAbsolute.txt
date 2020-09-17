@@ -1,0 +1,9 @@
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.deps.json
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.csprojAssemblyReference.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.AssemblyInfoInputs.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.AssemblyInfo.cs
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.csproj.CoreCompileInputs.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.pdb

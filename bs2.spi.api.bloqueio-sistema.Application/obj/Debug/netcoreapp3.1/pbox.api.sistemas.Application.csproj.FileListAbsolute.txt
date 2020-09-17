@@ -1,0 +1,14 @@
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Application.deps.json
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Application.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Application.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Core.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.Core.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\bin\Debug\netcoreapp3.1\pbox.api.sistemas.Domain.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Application.csprojAssemblyReference.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Application.AssemblyInfoInputs.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Application.AssemblyInfo.cs
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Application.csproj.CoreCompileInputs.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Application.csproj.CopyComplete
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Application.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Application\obj\Debug\netcoreapp3.1\pbox.api.sistemas.Application.pdb

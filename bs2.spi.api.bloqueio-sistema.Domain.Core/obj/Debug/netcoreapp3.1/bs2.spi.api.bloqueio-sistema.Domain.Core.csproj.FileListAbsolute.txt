@@ -1,0 +1,12 @@
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.deps.json
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\bin\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.pdb
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.csprojAssemblyReference.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.AssemblyInfoInputs.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.AssemblyInfo.cs
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj.CoreCompileInputs.cache
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.csproj.CopyComplete
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.dll
+R:\bs2\bs2.spi.api.bloqueio-sistema.v1\bs2.spi.api.bloqueio-sistema.Domain.Core\obj\Debug\netcoreapp3.1\bs2.spi.api.bloqueio-sistema.Domain.Core.pdb
